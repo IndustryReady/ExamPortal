@@ -1,0 +1,1 @@
+Here we will discuss and present ideas for architecture
